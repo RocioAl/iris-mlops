@@ -38,3 +38,6 @@ Mide qué tan cerca está un resultado, dato o medición del valor real o verdad
 
  ## F1-score
  Es una métrica utilizada en Machine Learning para evaluar el rendimiento de un modelo de clasificación
+
+ ## Resultado del proyecto
+
