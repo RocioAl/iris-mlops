@@ -18,3 +18,6 @@ python src/train_models.py
 ```
 
 Este proyecto utiliza Regresión Logística, Random Forest y SVM.
+
+#Modelo SVM
+Es la maquina de vector soporte
