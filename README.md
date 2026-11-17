@@ -18,3 +18,6 @@ python src/train_models.py
 ```
 
 Este proyecto utiliza Regresión Logística, Random Forest y SVM.
+
+## Evaluación de modelos
+Evaluación de modelos
