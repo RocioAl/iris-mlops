@@ -16,3 +16,5 @@ Proyecto de Machine Learning para clasificar especies de flores Iris (`Iris-seto
 pip install -r requirements.txt
 python src/train_models.py
 ```
+
+Este proyecto utiliza Regresión Logística, Random Forest y SVM.
