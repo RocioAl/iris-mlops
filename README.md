@@ -26,3 +26,15 @@ Evaluación de modelos
 #Modelo SVM
 Es la maquina de vector soporte
 >>>>>>> feature/svm
+
+## Accuracy
+Mide qué tan cerca está un resultado, dato o medición del valor real o verdadero
+
+## Precision 
+ Es una métrica de evaluación para modelos de clasificación que mide la calidad de las predicciones positivas realizadas por el modelo
+
+ ## Recall
+ mide la capacidad de un modelo de clasificación para identificar todos los casos positivos reales.
+
+ ## F1-score
+ Es una métrica utilizada en Machine Learning para evaluar el rendimiento de un modelo de clasificación
